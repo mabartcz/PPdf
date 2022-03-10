@@ -77,3 +77,5 @@ path2Dirs.forEach(subDirName => {
     console.log(subDirName + " Created !")
 })
 
+//TODO dat vsechny pdf k sobe
+
